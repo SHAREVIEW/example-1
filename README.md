@@ -1,3 +1,9 @@
+https://csharp.hotexamples.com/examples/InTheHand.Net.Sockets/BluetoothClient/Connect/php-bluetoothclient-connect-method-examples.html
+
+
+EXAMPLE #16
+
+
 # example-1
 C#. Desktop <---> Arduino control mouse. Uses Feet32 Library
 
